@@ -1,0 +1,10 @@
+{
+	"name": "Pong CYBER",
+	"short_name": "Pong CYBER",
+	"description": "Game inspired by Pong from Atari",
+	"start_url": "index.html",
+	"display": "fullscreen",
+	"orientation": "landscape",
+	"background_color": "#ffffff",
+	"icons": []
+}
